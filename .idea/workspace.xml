@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f08f68-f153-4c46-b310-7e144d15c558" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arithmetic.html" beforeDir="false" afterPath="$PROJECT_DIR$/Arithmetic.html" afterDir="false" />
+    <list default="true" id="b2f08f68-f153-4c46-b310-7e144d15c558" name="Changes" comment="ASDAS">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/publish-ghcr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish-ghcr.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +55,25 @@
       <workItem from="1707435593016" duration="1394000" />
       <workItem from="1707437633180" duration="785000" />
       <workItem from="1708015307761" duration="22000" />
-      <workItem from="1708041526381" duration="16000" />
+      <workItem from="1708041526381" duration="296000" />
     </task>
+    <task id="LOCAL-00001" summary="ASDAS">
+      <option name="closed" value="true" />
+      <created>1708041568092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708041568092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ASDAS" />
+    <option name="LAST_COMMIT_MESSAGE" value="ASDAS" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
